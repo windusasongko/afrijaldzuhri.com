@@ -1,0 +1,34 @@
+{
+  "data": [
+    {
+      "title": "How to Discover Your Unknown Knowns",
+      "link": "https://www.freecodecamp.org/news/how-to-discover-your-unknown-knowns/",
+      "description": "",
+      "date": "2019-08-21"
+    },
+    {
+      "title": "Polymorphism",
+      "link": "https://sis.binus.ac.id/2017/08/30/polymorphism/",
+      "description": "Pengertian polymorphism",
+      "date": "2019-07-17"
+    },
+    {
+      "title": "Software Engineering at the Speed of Light: How Developers Stay Current Using Twitter",
+      "link": "https://leif.me/papers/Software-Developers-Twitter-DCS-350-IR.pdf",
+      "description": "Paper about how developer use twitter.",
+      "date": "2019-07-16"
+    },
+    {
+      "title": "Between the Wires: An interview with open source developer Sindre Sorhus",
+      "link": "https://www.freecodecamp.org/news/sindre-sorhus-8426c0ed785d/",
+      "description": "An interview story from Sindre Sorhus how he becomes open souce developer.",
+      "date": "2019-07-15"
+    },
+    {
+      "title": "Here are some app ideas you can build to level up your coding skills",
+      "link": "https://medium.com/free-code-camp/here-are-some-app-ideas-you-can-build-to-level-up-your-coding-skills-39618291f672",
+      "description": "Ideas to build something for developer.",
+      "date": "2019-07-14"
+    }
+  ]
+}

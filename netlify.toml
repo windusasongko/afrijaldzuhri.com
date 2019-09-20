@@ -1,0 +1,7 @@
+[build]
+  publish = "public"
+  command = "gatsby build"
+[[redirects]]
+  from = "/now"
+  to = "https://afrijaldzuhri.wordpress.com/now"
+  force = true
